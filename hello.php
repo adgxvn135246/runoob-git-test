@@ -1,3 +1,2 @@
 <?php
-echo 'other window'
-?>
+echo 'one window'?>
